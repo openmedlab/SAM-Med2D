@@ -7,7 +7,7 @@
 <a target="_blank" href="https://colab.research.google.com/github/OpenGVLab/SAM-Med2D/blob/main/predictor_example.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-[![GitHub Stars](https://img.shields.io/github/stars/OpenGVLab/SAM-Med2D.svg?style=social&label=Star&maxAge=60)](https://github.com/OpenGVLab/SAM-Med2D)🔥🔥🔥
+[![GitHub Stars](https://img.shields.io/github/stars/openmedlab/SAM-Med2D.svg?style=social&label=Star&maxAge=60)](https://github.com/openmedlab/SAM-Med2D)🔥🔥🔥
 <!-- ## Description -->
 
 ## 🌤️ Highlights
